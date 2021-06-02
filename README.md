@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://github.com/iamsaif6/Conbie/commit/286f8ad7449e6399be7208f633c0d2032b55809c" width="800px" />
+<img src="https://github.com/iamsaif6/Conbie/blob/master/conbie.gif" width="800px" />
 
 > ## For live preview : [Click Here](https://iamsaif6.github.io/Conbie/ "Conbie")
 
